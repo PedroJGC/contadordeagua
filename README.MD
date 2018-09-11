@@ -1,0 +1,1 @@
+App criado para estudos de React Native.
